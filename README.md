@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently rocking **TypeScript**
 
-- 📫 Reach me: **bimsara.20211450@iit.ac.lk**
+<!-- - 📫 Reach me: **bimsara.20211450@iit.ac.lk** -->
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
