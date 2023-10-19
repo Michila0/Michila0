@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Michila Bimsara</h1>
+<h3 align="center">A passionate tech enthusiast with a desire to have a positive impact on the world!</h3>
 <hr>
 <h3> 👨🏻‍💻 About Me </h3>
 
