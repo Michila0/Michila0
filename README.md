@@ -24,6 +24,7 @@
             target="_blank"> <img
             src="https://img.icons8.com/color/48/000000/javascript.png"
             alt="javascript" width="40" height="40" /> </a>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
              <a href="https://reactjs.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" /></a>
              <!-- <a href="https://www.gatsbyjs.com/" target="_blank"> <img
